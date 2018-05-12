@@ -1,0 +1,43 @@
+_repo: The-Twilight-of-the-Souls_34458
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - Mattos, Alexander Teixeira de
+    - Mattos, Alexander Teixera de
+    - De Mattos, Alexander Teixeira
+    - Teixeira de Mattos, Alexander Louis
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Couperus, Louis
+    alias: Couperus, Louis Marie Anne
+    birthdate: 1863
+    deathdate: 1923
+    gutenberg_agent_id: '4169'
+    url: http://www.gutenberg.org/2009/agents/4169
+    wikipedia:
+    - http://nl.wikipedia.org/wiki/Louis_Couperus
+    - http://en.wikipedia.org/wiki/Louis_Couperus
+description: The Books of the Small Souls, Vol. 3
+gutenberg_issued: '2010-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34458'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Netherlands -- Fiction'
+title: The Twilight of the Souls
+url: http://www.gutenberg.org/ebooks/34458
