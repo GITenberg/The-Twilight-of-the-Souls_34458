@@ -27,6 +27,8 @@ creator:
     - http://nl.wikipedia.org/wiki/Louis_Couperus
     - http://en.wikipedia.org/wiki/Louis_Couperus
 description: The Books of the Small Souls, Vol. 3
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34458#The-Twilight-of-the-Souls
 gutenberg_issued: '2010-11-27'
 gutenberg_type: Text
 identifiers:
